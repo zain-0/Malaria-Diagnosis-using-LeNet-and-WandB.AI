@@ -32,7 +32,7 @@ Getting Started
 Project Notebooks
 -----------------
 
--   `malaria_detection.ipynb`: Main notebook containing the implementation of the Malaria Detection Project.
+-   `malaria_diagnosis_cnn.ipynb`: Main notebook containing the implementation of the Malaria Detection Project.
 
 Data Preprocessing and Augmentation
 -----------------------------------
